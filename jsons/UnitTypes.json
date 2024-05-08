@@ -6,65 +6,147 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units>"]
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Sword",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Archery",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Ranged Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Scout",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Mounted",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Armored",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Siege",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Civilian Water",
-        "movementType": "Water"
+        "movementType": "Water",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Melee Water",
-        "movementType": "Water"
+        "movementType": "Water",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Ranged Water",
-        "movementType": "Water"
+        "movementType": "Water",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Submarine",
         "movementType": "Water",
-        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units","This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Aircraft Carrier",
-        "movementType": "Water"
+        "movementType": "Water",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["Can pass through impassable tiles"]
+        "uniques": ["Can pass through impassable tiles","This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
     }
 ]
