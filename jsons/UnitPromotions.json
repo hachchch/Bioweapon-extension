@@ -32,10 +32,10 @@
         },
         {
                 "name": "Endotoxic Bacteria Infection",
-                "uniques": ["This Unit takes [10] damage <upon turn end>","This Unit takes [100] damage <upon turn end> <with [2]% chance> <before discovering [Pharmaceuticals]>","This Unit takes [100] damage <upon turn end> <with [4]% chance> <after discovering [Pharmaceuticals]>"]
+                "uniques": ["Endotoxic Bacteria Infected","This Unit takes [10] damage <upon turn end>","This Unit takes [100] damage <upon turn end> <with [2]% chance> <before discovering [Pharmaceuticals]>","This Unit takes [100] damage <upon turn end> <with [4]% chance> <after discovering [Pharmaceuticals]>"]
         },
         {
                 "name": "Verotoxic Bacteria Infection",
-                "uniques": ["This Unit takes [10] damage <upon turn end>","This Unit takes [10] damage <upon ending a turn in a [Pasture] tile>","This Unit takes [10] damage <upon ending a turn in a [City center] tile>"]
+                "uniques": ["Verotoxic Bacteria Infected","This Unit takes [10] damage <upon turn end>","This Unit takes [10] damage <upon ending a turn in a [Pasture] tile>","This Unit takes [10] damage <upon ending a turn in a [City center] tile>"]
         },
 ]
