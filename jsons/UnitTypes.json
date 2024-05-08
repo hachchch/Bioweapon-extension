@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land",
+        "uniques": ["This Unit gains the [Immunity] promotion <with [10]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
+        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units>",
+        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units>"]
+    },
+    {
+        "name": "Sword",
+        "movementType": "Land"
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land"
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged Gunpowder",
+        "movementType": "Land"
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land"
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land"
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land"
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Ranged Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
+    },
+    {
+        "name": "Aircraft Carrier",
+        "movementType": "Water"
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles"]
+    }
+]
