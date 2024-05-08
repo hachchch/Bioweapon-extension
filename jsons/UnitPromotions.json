@@ -24,6 +24,6 @@
         /*Other*/
         {
                 "name": "Immunity",
-                "uniques": [""]
-        },
+                "uniques": ["has Immunity"]
+        }
 ]
