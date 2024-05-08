@@ -38,4 +38,8 @@
                 "name": "Verotoxic Bacteria Infection",
                 "uniques": ["Verotoxic Bacteria Infected","This Unit takes [10] damage <upon turn end>","This Unit takes [10] damage <upon ending a turn in a [Pasture] tile>","This Unit takes [10] damage <upon ending a turn in a [City center] tile>"]
         },
+        {
+                "name": "Paralysis",
+                "uniques": ["This Unit takes [10] damage <upon turn end>","Cannot move","Cannot attack","[-80]% Strength"]
+        }
 ]
