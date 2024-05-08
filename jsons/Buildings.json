@@ -23,92 +23,92 @@
         {
                 "name": "A-Bacteria Type;Gram-Negative",
                 "cost": 1,
-                "uniques": ["All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Gram-Negative] promotion","Unbuildable","Unsellable"]
+                "uniques": ["A-Bacteria Type","All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Gram-Negative] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "A-Bacteria Type;Gram-Positive",
                 "cost": 1,
-                "uniques": ["All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Gram-Positive] promotion","Unbuildable","Unsellable"]
+                "uniques": ["A-Bacteria Type","All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Gram-Positive] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "B-Bacteria Type;Gram-Negative",
                 "cost": 1,
-                "uniques": ["All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Gram-Negative] promotion","Unbuildable","Unsellable"]
+                "uniques": ["B-Bacteria Type","All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Gram-Negative] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "B-Bacteria Type;Gram-Positive",
                 "cost": 1,
-                "uniques": ["All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Gram-Positive] promotion","Unbuildable","Unsellable"]
+                "uniques": ["B-Bacteria Type","All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Gram-Positive] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "C-Bacteria Type;Gram-Negative",
                 "cost": 1,
-                "uniques": ["All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Gram-Negative] promotion","Unbuildable","Unsellable"]
+                "uniques": ["C-Bacteria Type","All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Gram-Negative] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "C-Bacteria Type;Gram-Positive",
                 "cost": 1,
-                "uniques": ["All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Gram-Positive] promotion","Unbuildable","Unsellable"]
+                "uniques": ["C-Bacteria Type","All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Gram-Positive] promotion","Unbuildable","Unsellable"]
         },
         /*Column*/
         {
                 "name": "Column1;Endotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Endotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["A-Toxicity","All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Endotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column1;Verotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Verotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["A-Toxicity","All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Verotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column1;Exotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Exotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["A-Toxicity","All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Exotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column1;Super Antigen",
                 "cost": 1,
-                "uniques": ["All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Super Antigen] promotion","Unbuildable","Unsellable"]
+                "uniques": ["A-Toxicity","All newly-trained [A-Bacteria Sprayer] units [in this city] receive the [Super Antigen] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column2;Endotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Endotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["B-Toxicity","All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Endotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column2;Verotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Verotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["B-Toxicity","All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Verotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column2;Exotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Exotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["B-Toxicity","All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Exotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column2;Super Antigen",
                 "cost": 1,
-                "uniques": ["All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Super Antigen] promotion","Unbuildable","Unsellable"]
+                "uniques": ["B-Toxicity","All newly-trained [B-Bacteria Sprayer] units [in this city] receive the [Super Antigen] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column3;Endotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Endotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["C-Toxicity","All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Endotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column3;Verotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Verotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["C-Toxicity","All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Verotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column3;Exotoxin",
                 "cost": 1,
-                "uniques": ["All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Exotoxin] promotion","Unbuildable","Unsellable"]
+                "uniques": ["C-Toxicity","All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Exotoxin] promotion","Unbuildable","Unsellable"]
         },
         {
                 "name": "Column3;Super Antigen",
                 "cost": 1,
-                "uniques": ["All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Super Antigen] promotion","Unbuildable","Unsellable"]
+                "uniques": ["C-Toxicity","All newly-trained [C-Bacteria Sprayer] units [in this city] receive the [Super Antigen] promotion","Unbuildable","Unsellable"]
         }
 ]
