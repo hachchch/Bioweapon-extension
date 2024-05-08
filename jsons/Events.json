@@ -1,15 +1,15 @@
 [
         {
-                "name": "Bacteria Type",
+                "name": "A-Bacteria Type",
                 "text": "Choose the Bacteria Type",
                 "choices":[
                         {
                                 "text": "Gram-Negative",
-                                "triggeredUniques": ["Bioweapon Strength 1","Can Infection","Gain a free [Bacteria Type;Gram-Negative] [in all cities] <hidden from users>","Triggers a [Column1 N] event <hidden from users>"]
+                                "triggeredUniques": ["Bioweapon Strength 1","Can Infection","Gain a free [A-Bacteria Type;Gram-Negative] [in all cities] <hidden from users>","Triggers a [Column1 N] event <hidden from users>"]
                         },
                         {
                                 "text": "Gram-Positive",
-                                "triggeredUniques": ["Bioweapon Strength 2","Gain a free [Bacteria Type;Gram-Positive] [in all cities] <hidden from users>","Triggers a [Column1 P] event <hidden from users>"]
+                                "triggeredUniques": ["Bioweapon Strength 2","Gain a free [A-Bacteria Type;Gram-Positive] [in all cities] <hidden from users>","Triggers a [Column1 P] event <hidden from users>"]
                         }
                 ]
         },
