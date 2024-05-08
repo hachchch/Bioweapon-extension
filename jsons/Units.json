@@ -5,11 +5,36 @@
 		"movement": 1,
 		"strength": 1,
 		"rangedStrength": 1,
-		"range": 12,
-		"cost": 1000,
+		"range": 8,
+		"cost": 600,
 		"requiredTech": "Flight",
-		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Create Bioweapon (SlotA)] is constructed>",
 			"Blast radius [2]"],
 		"attackSound": "nuke"
-        }
+        },
+	{
+		"name": "B-Bacteria Sprayer",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"range": 8,
+		"cost": 600,
+		"requiredTech": "Flight",
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Create Bioweapon (SlotB)] is constructed>",
+			"Blast radius [1]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "C-Bacteria Sprayer",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"range": 8,
+		"cost": 600,
+		"requiredTech": "Flight",
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Create Bioweapon (SlotC)] is constructed>"],
+		"attackSound": "nuke"
+	}
 ]
