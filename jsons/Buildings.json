@@ -1,0 +1,19 @@
+[
+        {
+                "name": "Create Bioweapon (Slot1)",
+                "requiredTech": "Biology",
+                "uniques": ["Unbuildable <hidden from users>","Comment [Let's design your own bacteria!]","Triggers a [Bacteria Type] event <hidden from users>","Research"]
+        },
+        {
+                "name": "Create Bioweapon (Slot2)",
+                "requiredBuilding": "Create Bioweapon (Slot1)",
+                "requiredTech": "Refrigeration",
+                "uniques": ["Unbuildable <hidden from users>","Comment [Let's design your own bacteria!]","Triggers a [Bacteria Type] event <hidden from users>","Research"]
+        },
+        {
+                "name": "Create Bioweapon (Slot3)",
+                "requiredBuilding": "Create Bioweapon (Slot2)",
+                "requiredTech": "Ecology",
+                "uniques": ["Unbuildable <hidden from users>","Comment [Let's design your own bacteria!]","Triggers a [Bacteria Type] event <hidden from users>","Research"]
+        }
+]
