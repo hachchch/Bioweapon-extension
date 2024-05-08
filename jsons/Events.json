@@ -20,11 +20,11 @@
                 "choices":[
                         {
                                 "text": "Endotoxin",
-                                "triggeredUniques": ["2% chance of instantly killing the infected person every turn.","If the target is researched antibiotics, this is became 4%.","Gain a free [Bacteria Type;Gram-Negative] [in all cities] <hidden from users>","Triggers a [Column2] event <hidden from users>"]
+                                "triggeredUniques": ["2% chance of instantly killing the infected person every turn.","If the target is researched antibiotics, this is became 4%.","Gain a free [Column1;Endotoxin] [in all cities] <hidden from users>"]
                         },
                         {
                                 "text": "Verotoxin",
-                                "triggeredUniques": ["cause doubled damage to units on pastures and cities.","Gain a free [Bacteria Type;Gram-Positive] [in all cities] <hidden from users>","Triggers a [Column2] event <hidden from users>"]
+                                "triggeredUniques": ["cause doubled damage to units on pastures and cities.","Gain a free [Column1;Verotoxin] [in all cities] <hidden from users>"]
                         }
                 ]
         },
@@ -35,11 +35,11 @@
                 "choices":[
                         {
                                 "text": "Exotoxin",
-                                "triggeredUniques": ["Incapacitates the target.","Gain a free [Bacteria Type;Gram-Negative] [in all cities] <hidden from users>","Triggers a [Column2] event <hidden from users>"]
+                                "triggeredUniques": ["Incapacitates the target.","Gain a free [Column1;Exotoxin] [in all cities] <hidden from users>"]
                         },
                         {
                                 "text": "Super Antigen",
-                                "triggeredUniques": ["Destroys the immunity of target.","Gain a free [Bacteria Type;Gram-Positive] [in all cities] <hidden from users>","Triggers a [Column2] event <hidden from users>"]
+                                "triggeredUniques": ["Destroys the immunity of target.","Gain a free [Column1;Super Antigen] [in all cities] <hidden from users>"]
                         }
                 ]
         }
