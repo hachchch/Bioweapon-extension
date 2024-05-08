@@ -1,0 +1,29 @@
+[
+        /*Bacteria Type*/
+        {
+                "name": "Gram-Negative",
+                "uniques": ["[+5000]% Strength"]
+        },
+        {
+                "name": "Gram-Positive",
+                "uniques": ["[+10000]% Strength"]
+        },
+        /*Column1-3*/
+        {
+                "name": "Endotoxin",
+                "uniques": ["Endotoxin"]
+        },
+        {
+                "name": "Exotoxin",
+                "uniques": ["Exotoxin"]
+        },
+        {
+                "name": "Super Antigen",
+                "uniques": ["Super Antigen"]
+        },
+        /*Other*/
+        {
+                "name": "Immunity",
+                "uniques": [""]
+        },
+]
