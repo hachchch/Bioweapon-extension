@@ -1,0 +1,15 @@
+[
+        {
+		"name": "A-Bacteria Sprayer",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"range": 12,
+		"cost": 1000,
+		"requiredTech": "Flight",
+		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [2]"],
+		"attackSound": "nuke"
+        }
+]
