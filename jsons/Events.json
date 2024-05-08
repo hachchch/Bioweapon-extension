@@ -13,7 +13,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Bacteria Type] [in all cities]"]
+                                "triggeredUniques": ["Remove [A-Bacteria Type] [in all cities]"]
                         }
                 ]
         },
@@ -32,7 +32,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Toxicity] [in all cities]","Triggers a [A-Bacteria Type] event <hidden from users>"]
+                                "triggeredUniques": ["Remove [A-Toxicity] [in all cities]","Triggers a [A-Bacteria Type] event <hidden from users>"]
                         }
                 ]
         },
@@ -51,7 +51,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Toxicity] [in all cities]","Triggers a [A-Bacteria Type] event <hidden from users>"]
+                                "triggeredUniques": ["Remove [A-Toxicity] [in all cities]","Triggers a [A-Bacteria Type] event <hidden from users>"]
                         }
                 ]
         },
@@ -69,7 +69,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Bacteria Type] [in all cities]"]
+                                "triggeredUniques": ["Remove [B-Bacteria Type] [in all cities]"]
                         }
                 ]
         },
@@ -88,7 +88,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Toxicity] [in all cities]","Triggers a [B-Bacteria Type] event <hidden from users>"]
+                                "triggeredUniques": ["Remove [B-Toxicity] [in all cities]","Triggers a [B-Bacteria Type] event <hidden from users>"]
                         }
                 ]
         },
@@ -107,7 +107,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Toxicity] [in all cities]","Triggers a [B-Bacteria Type] event <hidden from users>"]
+                                "triggeredUniques": ["Remove [B-Toxicity] [in all cities]","Triggers a [B-Bacteria Type] event <hidden from users>"]
                         }
                 ]
         },
@@ -125,7 +125,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Bacteria Type] [in all cities]"]
+                                "triggeredUniques": ["Remove [C-Bacteria Type] [in all cities]"]
                         }
                 ]
         },
@@ -144,7 +144,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Toxicity] [in all cities]","Triggers a [C-Bacteria Type] event <hidden from users>"]
+                                "triggeredUniques": ["Remove [C-Toxicity] [in all cities]","Triggers a [C-Bacteria Type] event <hidden from users>"]
                         }
                 ]
         },
@@ -163,7 +163,7 @@
                         },
                         {
                                 "name": "Back",
-                                "triggeredUniques": ["Remove [Toxicity] [in all cities]","Triggers a [C-Bacteria Type] event <hidden from users>"]
+                                "triggeredUniques": ["Remove [C-Toxicity] [in all cities]","Triggers a [C-Bacteria Type] event <hidden from users>"]
                         }
                 ]
         }
