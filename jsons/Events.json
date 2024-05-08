@@ -10,6 +10,10 @@
                         {
                                 "text": "Gram-Positive",
                                 "triggeredUniques": ["Bioweapon Strength 2","Gain a free [A-Bacteria Type;Gram-Positive] [in all cities] <hidden from users>","Triggers a [Column1 P] event <hidden from users>"]
+                        },
+                        {
+                                "name": "Back",
+                                "triggeredUniques": ["Remove [Bacteria Type] [in all cities]"]
                         }
                 ]
         },
@@ -20,11 +24,15 @@
                 "choices":[
                         {
                                 "text": "Endotoxin",
-                                "triggeredUniques": ["2% chance of instantly killing the infected person every turn.","If the target is researched antibiotics, this is became 4%.","Gain a free [Column1;Endotoxin] [in all cities] <hidden from users>"]
+                                "triggeredUniques": ["2% chance of instantly killing the infected person every turn.","If the enemy is researched pharmaceuticals, this is became 4%.","Gain a free [Column1;Endotoxin] [in all cities] <hidden from users>"]
                         },
                         {
                                 "text": "Verotoxin",
                                 "triggeredUniques": ["cause doubled damage to units on pastures and cities.","Gain a free [Column1;Verotoxin] [in all cities] <hidden from users>"]
+                        },
+                        {
+                                "name": "Back",
+                                "triggeredUniques": ["Remove [Toxicity] [in all cities]","Triggers a [A-Bacteria Type] event <hidden from users>"]
                         }
                 ]
         },
@@ -40,6 +48,10 @@
                         {
                                 "text": "Super Antigen",
                                 "triggeredUniques": ["Destroys the immunity of target.","Gain a free [Column1;Super Antigen] [in all cities] <hidden from users>"]
+                        },
+                        {
+                                "name": "Back",
+                                "triggeredUniques": ["Remove [Toxicity] [in all cities]","Triggers a [A-Bacteria Type] event <hidden from users>"]
                         }
                 ]
         }
