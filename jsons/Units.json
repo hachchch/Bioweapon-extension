@@ -8,7 +8,7 @@
 		"range": 8,
 		"cost": 600,
 		"requiredTech": "Flight",
-		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Create Bioweapon (SlotA)] is constructed>"],
+		"uniques": ["Only available <if [Create Bioweapon (SlotA)] is constructed>"],
 		"attackSound": "nuke"
         },
 	{
@@ -20,7 +20,7 @@
 		"range": 8,
 		"cost": 600,
 		"requiredTech": "Flight",
-		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Create Bioweapon (SlotB)] is constructed>"],
+		"uniques": ["Only available <if [Create Bioweapon (SlotB)] is constructed>"],
 		"attackSound": "nuke"
 	},
 	{
@@ -32,7 +32,7 @@
 		"range": 8,
 		"cost": 600,
 		"requiredTech": "Flight",
-		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Create Bioweapon (SlotC)] is constructed>"],
+		"uniques": ["Only available <if [Create Bioweapon (SlotC)] is constructed>"],
 		"attackSound": "nuke"
 	}
 ]
