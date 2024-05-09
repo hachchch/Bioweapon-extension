@@ -6,8 +6,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <when defending>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <when defending>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <when defending>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <when defending>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Sword",
