@@ -6,10 +6,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <when defending>　<vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <when defending>　<vs [Exotoxin] units> <for units without [Immunity]>",
-        "This Unit loses the [Verotoxic Bacteria Infection] promotion <when defending>　<vs [Verotoxin] units> <for units with [Immunity]>",
-        "This Unit gains the [Endotoxic Bacteria Infection] promotion <when defending>　<vs [Endotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Sword",
@@ -18,8 +18,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Gunpowder",
@@ -28,8 +30,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Archery",
@@ -38,8 +42,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Ranged Gunpowder",
@@ -48,8 +54,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Scout",
@@ -58,8 +66,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Mounted",
@@ -68,8 +78,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Armored",
@@ -78,8 +90,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Siege",
@@ -88,8 +102,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Civilian Water",
@@ -98,8 +114,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Melee Water",
@@ -108,8 +126,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Ranged Water",
@@ -118,8 +138,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Submarine",
@@ -128,8 +150,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Aircraft Carrier",
@@ -138,8 +162,10 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     },
     {
         "name": "Helicopter",
@@ -148,7 +174,9 @@
         "This Unit gains the [Immunity] promotion <upon turn end> <with [1]% chance> <after discovering [Biology]>",
         "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Endotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
         "This Unit gains the [Verotoxic Bacteria Infection] promotion <upon turn end> <when adjacent to a [Verotoxic Bacteria Infected] unit> <with [50]% chance> <for units without [Immunity]>",
-        "This Unit loses the [Immunity] promotion <vs [Super Antigen] units> <for units with [Immunity]>",
-        "This Unit gains the [Paralysis] promotion <vs [Exotoxin] units> <for units without [Immunity]>"]
+        "This Unit loses the [Immunity] promotion <upon losing at least [1] HP in a single attack>　<vs [Super Antigen] units> <for units with [Immunity]>",
+        "This Unit gains the [Paralysis] promotion <upon losing at least [1] HP in a single attack>　<vs [Exotoxin] units> <for units without [Immunity]>",
+        "This Unit loses the [Verotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Verotoxin] units> <for units with [Immunity]>",
+        "This Unit gains the [Endotoxic Bacteria Infection] promotion <upon losing at least [1] HP in a single attack>　<vs [Endotoxin] units> <for units without [Immunity]>"]
     }
 ]
